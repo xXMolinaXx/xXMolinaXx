@@ -8,8 +8,9 @@ and thats why am in love with TS. it has the best of node and the storngly typed
 
 ## DEVELOP STACK 🛠️
 
+![loading-loading-forever](https://github.com/user-attachments/assets/8228cde5-d88f-4997-ac84-fe65f8b6ac61)
 
-<div class="tenor-gif-embed" data-postid="18368917" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/loading-loading-forever-bobux-loader-gif-18368917">Loading Loading Forever Sticker</a>from <a href="https://tenor.com/search/loading-stickers">Loading Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <!--
 **xXMolinaXx/xXMolinaXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
