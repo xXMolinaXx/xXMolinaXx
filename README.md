@@ -9,7 +9,7 @@ and thats why am in love with TS. it has the best of node and the storngly typed
 ## DEVELOP STACK 🛠️
 
 ![loading-loading-forever](https://github.com/user-attachments/assets/8228cde5-d88f-4997-ac84-fe65f8b6ac61)
-
+working on process...
 
 
 <!--
