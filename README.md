@@ -1,7 +1,7 @@
 ## Hi there 👋
-I am a fullstack developer based on tegucigalpa.
-I am actually working at kielsa Farmaceutic store on Honduras.
-and my main languaje is spanish but i also learn a bit of english.
+I am a fullstack developer based on tegucigalpa.<br />
+I am actually working at kielsa Farmaceutic store on Honduras.<br />
+and my main languaje is spanish but i also learn a bit of english.<br />
 Am a mid level Javascript develepor and also Javascript lover.
 But i also like other languaje like python. but what a really like more is strongly typed programming languages.
 and thats why am in love with TS. it has the best of node and the storngly typed type
