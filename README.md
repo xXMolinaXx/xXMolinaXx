@@ -28,7 +28,7 @@ and thats why am in love with TS. it has the best of node and the storngly typed
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxmolinaxxE&show_icons=true&theme=dark)
 
 
 <!--
