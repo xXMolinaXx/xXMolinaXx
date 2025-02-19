@@ -29,6 +29,11 @@ and thats why am in love with TS. it has the best of node and the storngly typed
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxmolinaxx&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=xxmolinaxx&theme=dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=xxmolinaxx&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxmolinaxx&layout=compact&theme=dark)
+![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=xxmolinaxx&theme=dark)
+
 
 
 <!--
