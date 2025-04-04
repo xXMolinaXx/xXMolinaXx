@@ -54,8 +54,8 @@ That’s why I’m in love with **TypeScript** — it brings the power of static
 - Agile methodologies (Scrum)
 
   ## 📫 How to reach me
-- Email: tuemail@example.com
-- LinkedIn: [TuNombre](https://www.linkedin.com/in/tuusuario)
+- Email: kenny.molina.murillo@gmail.com
+- LinkedIn: [Kenny Molina](https://www.linkedin.com/in/tuusuario)
 - GitHub: [@xxmolinaxx](https://github.com/xxmolinaxx)
 
 
