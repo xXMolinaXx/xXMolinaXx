@@ -1,10 +1,12 @@
-## Hi there 👋
-I am a fullstack developer based on tegucigalpa.<br />
-I am actually working at Kielsa Farmaceutic store in Honduras.<br />
-and my main languaje is spanish but i also learn a bit of english.<br />
-Am a mid level Javascript develepor and also Javascript lover.
-But i also like other languaje like python. but what a really like more is strongly typed programming languages.
-and thats why am in love with TS. it has the best of node and the storngly typed type
+## 👋 Hi there!
+I'm a fullstack developer based in Tegucigalpa, Honduras.  
+Currently working at **Kielsa**, a pharmaceutical store in Honduras.  
+My main language is **Spanish**, but I’m also learning **English**.  
+
+I’m a **mid-level JavaScript developer** and a passionate fan of the language.  
+I also enjoy working with **Python**, but what I love the most are **strongly typed languages**.  
+That’s why I’m in love with **TypeScript** — it brings the power of static types to Node.js!
+
 
 ## 🖥 Tech Stack
 
@@ -34,6 +36,27 @@ and thats why am in love with TS. it has the best of node and the storngly typed
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxmolinaxx&layout=compact&theme=dark)
 ![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=xxmolinaxx&theme=dark)
 
+## 🌱 Currently Learning
+- 🦀 Rust – exploring systems programming and memory safety
+- ☁️ AWS – diving into cloud infrastructure
+- 🧠 AI & Machine Learning (curiosity mode)
+
+## 🤝 I’m open to collaborate on:
+- JavaScript/TypeScript projects
+- Open source tools or utilities
+- Rust learning groups or small tools
+
+## 🧰 Other Tools & Skills
+- Git & GitHub
+- Linux & WSL
+- Nginx configuration
+- RESTful APIs & Websockets
+- Agile methodologies (Scrum)
+
+  ## 📫 How to reach me
+- Email: tuemail@example.com
+- LinkedIn: [TuNombre](https://www.linkedin.com/in/tuusuario)
+- GitHub: [@xxmolinaxx](https://github.com/xxmolinaxx)
 
 
 <!--
